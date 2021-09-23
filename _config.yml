@@ -80,9 +80,9 @@ analytics:
 # Site Author
 author:
   name    : "Saehan Park"
-  avatar  : "/assets/images/bio-photo.png"
+  avatar  : "/assets/bio-photo.png"
   bio     : "NewBig Newbie SSayhan. Thoughts and ideas."
-  location         : "Somewhere"
+  location         : "Seoul, Republic of Korea"
   email            : "novogrande@naver.com"
   links:
     - label: "Email"
