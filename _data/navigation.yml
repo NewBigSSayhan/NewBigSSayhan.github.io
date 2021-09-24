@@ -3,12 +3,9 @@ main:
   - title: "About"
     url: /about/
     description: "About"
-  - title: "Category"
-    url: /categories/
-    description: "Posts by categories"
+  - title: "Journal"
+    url: /Journals/
+    description: "Journal"
   - title: "Tag"
     url: /tags/
     description: "Posts by tags"
-  - title: "Archive"
-    url: /year-archive/
-    description: "Posts by year"

@@ -1,7 +1,10 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Journal"
+layout: splash
+permalink: /Journals/
 author_profile: true
+header:
+  image: /assets/images/header_jnl.jpg
+  caption: "Photo - ssayhan"
 ---
 
