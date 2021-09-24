@@ -6,6 +6,7 @@ date:   2021-09-15 16:57:40 +0900s
 lastmod: 2021-09-24 17:00:00 +0900
 
 author_profile: true
+comments: true
 categories: 
   - test post
 tags:
