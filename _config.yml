@@ -7,8 +7,6 @@
 
 # Theme Settings
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
@@ -24,9 +22,9 @@ description              : "A day with a clear high sky comes after long summer 
 url                      : "https://newbigssayhan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NewBigSSayhan/NewBigSSayhan.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : ""
+logo                     : ""
+masthead_title           : ""
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -144,8 +142,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
