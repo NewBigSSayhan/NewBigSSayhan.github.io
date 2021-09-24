@@ -244,7 +244,7 @@ defaults:
       type: posts
     values:
       layout: single
-      comments: true
+      comments:
         provider: "disqus"
         disqus:
           shortname: "newbig-way"
