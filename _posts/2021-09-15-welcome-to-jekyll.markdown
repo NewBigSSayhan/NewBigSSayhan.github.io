@@ -7,7 +7,7 @@ lastmod: 2021-09-24 17:00:00 +0900
 
 author_profile: true
 categories: 
-  -test post
+  - test post
 tags:
     - test
     - first
