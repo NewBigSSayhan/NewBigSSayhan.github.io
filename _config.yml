@@ -30,6 +30,10 @@ words_per_minute         : 200
 reCaptcha:
   siteKey                :
   secret                 :
+comments: 
+    provider: "disqus"
+    disqus:
+      shortname: "newbig-way"
 atom_feed:
   hide                   : true
 search                   : true
