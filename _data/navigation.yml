@@ -2,6 +2,7 @@
 main:
   - title: "Posts"
     url: /_posts/
+    description: "Posts on various subjects"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
