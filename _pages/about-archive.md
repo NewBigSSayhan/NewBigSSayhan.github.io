@@ -5,9 +5,8 @@ title: "About"
 excerpt: "Saehan Park. Excerpt."
 sitemap: false
 permalink: /about/
+toc: true
 ---
-
-# About
 
 Hi there,
 
