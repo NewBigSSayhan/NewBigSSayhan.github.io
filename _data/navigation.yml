@@ -2,6 +2,7 @@
 main:
   - title: "About"
     url: /about/
+    description: "About"
   - title: "Category"
     url: /categories/
     description: "Posts by categories"
