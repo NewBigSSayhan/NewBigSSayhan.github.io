@@ -240,7 +240,7 @@ defaults:
       type: posts
     values:
       layout: single
-      comments:
+      comments: true
         provider: "disqus"
         disqus:
           shortname: "newbig-way"
