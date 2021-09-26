@@ -4,7 +4,7 @@ main:
     url: /about/
     description: "About"
   - title: "Journal"
-    url: /Journals/
+    url: /Journal/
     description: "Journal"
   - title: "Data"
     url: /Data/
