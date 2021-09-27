@@ -1,11 +1,10 @@
 ---
 title: "Journal"
 layout: collection
-permalink: /Journal/
+permalink: /journal/
 collection: journal
 entries_layout: grid
+classes: wide
 show_excerpts: true
-sort_by: date
-author_profile: true
 ---
 

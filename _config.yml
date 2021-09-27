@@ -25,6 +25,13 @@ repository               : "NewBigSSayhan/NewBigSSayhan.github.io"
 teaser                   : ""
 logo                     : ""
 masthead_title           : ""
+collections:
+ - journal
+   output: true
+   permalink: /:collection/:path/
+ - data
+   output: true
+   permalink: /:collection/:path/
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 reCaptcha:
@@ -258,3 +265,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _journal
+  - scope:
+      path: ""
+      type: journal
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      
