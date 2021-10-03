@@ -27,7 +27,6 @@ logo                     : ""
 masthead_title           : ""
 collections:
  - journal
-   output: true
    permalink: /journal/
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
