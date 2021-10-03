@@ -1,5 +1,5 @@
 ---
-title: "Journal"
+title: "Journal-Agenda"
 layout: collection
 permalink: /journal/
 collection: journal
