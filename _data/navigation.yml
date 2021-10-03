@@ -5,7 +5,7 @@ main:
     description: "About"
   - title: "Journal"
     url: /journal/
-    description: "Journal is power"
+    description: "Journal"
   - title: "Data"
     url: /Data/
     description: "Thoughts on data analytics"
