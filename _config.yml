@@ -28,10 +28,7 @@ masthead_title           : ""
 collections:
  - journal
    output: true
-   permalink: /:collection/:path/
- - data
-   output: true
-   permalink: /:collection/:path/
+   permalink: /journal/
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 reCaptcha:
