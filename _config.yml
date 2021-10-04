@@ -241,7 +241,7 @@ collections:
   journal:
    output: true
    author_profile: true
-   permalink: /journal/
+   permalink: /:collection/:path/
 
 
 # Defaults
